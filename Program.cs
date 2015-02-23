@@ -10,6 +10,7 @@ namespace Firefly
     {
         static void Main(string[] args)
         {
+            int q = 0;
         }
     }
 }
